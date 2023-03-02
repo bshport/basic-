@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.exe
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.deps.json
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.runtimeconfig.json
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.dll
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\ref\05_cycles.dll
+C:\Users\Bogdan\source\repos\05_cycles\bin\Debug\net5.0\05_cycles.pdb
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.dll
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\ref\05_cycles.dll
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.pdb
+C:\Users\Bogdan\source\repos\05_cycles\obj\Debug\net5.0\05_cycles.genruntimeconfig.cache

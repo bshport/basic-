@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.exe
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.deps.json
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.runtimeconfig.json
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.dll
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\ref\03_practice2.dll
+C:\Users\Bogdan\source\repos\03_practice2\bin\Debug\net5.0\03_practice2.pdb
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.dll
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\ref\03_practice2.dll
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.pdb
+C:\Users\Bogdan\source\repos\03_practice2\obj\Debug\net5.0\03_practice2.genruntimeconfig.cache

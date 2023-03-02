@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.exe
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.deps.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.runtimeconfig.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\ref\CrashCourseC-Sharp.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\CrashCourseC-Sharp.pdb
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\ref\CrashCourseC-Sharp.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.pdb
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\CrashCourseC-Sharp.genruntimeconfig.cache

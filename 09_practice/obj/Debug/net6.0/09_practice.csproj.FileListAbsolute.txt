@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\09_practice\bin\Debug\net6.0\09_practice.exe
+C:\Users\Bogdan\source\repos\09_practice\bin\Debug\net6.0\09_practice.deps.json
+C:\Users\Bogdan\source\repos\09_practice\bin\Debug\net6.0\09_practice.runtimeconfig.json
+C:\Users\Bogdan\source\repos\09_practice\bin\Debug\net6.0\09_practice.dll
+C:\Users\Bogdan\source\repos\09_practice\bin\Debug\net6.0\09_practice.pdb
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.dll
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\refint\09_practice.dll
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.pdb
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\09_practice.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\09_practice\obj\Debug\net6.0\ref\09_practice.dll

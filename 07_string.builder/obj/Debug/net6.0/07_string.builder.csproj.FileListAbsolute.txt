@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\07_string.builder\bin\Debug\net6.0\07_string.builder.exe
+C:\Users\Bogdan\source\repos\07_string.builder\bin\Debug\net6.0\07_string.builder.deps.json
+C:\Users\Bogdan\source\repos\07_string.builder\bin\Debug\net6.0\07_string.builder.runtimeconfig.json
+C:\Users\Bogdan\source\repos\07_string.builder\bin\Debug\net6.0\07_string.builder.dll
+C:\Users\Bogdan\source\repos\07_string.builder\bin\Debug\net6.0\07_string.builder.pdb
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.dll
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\refint\07_string.builder.dll
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.pdb
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\07_string.builder.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\07_string.builder\obj\Debug\net6.0\ref\07_string.builder.dll

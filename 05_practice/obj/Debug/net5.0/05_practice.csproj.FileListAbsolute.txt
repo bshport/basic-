@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.exe
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.deps.json
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.runtimeconfig.json
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.dll
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\ref\05_practice.dll
+C:\Users\Bogdan\source\repos\05_practice\bin\Debug\net5.0\05_practice.pdb
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.dll
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\ref\05_practice.dll
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.pdb
+C:\Users\Bogdan\source\repos\05_practice\obj\Debug\net5.0\05_practice.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.exe
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.deps.json
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.runtimeconfig.json
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.dll
+C:\Users\Bogdan\source\repos\06_strings\bin\Debug\net5.0\06_strings.pdb
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.dll
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\ref\06_strings.dll
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.pdb
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\06_strings.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\06_strings\obj\Debug\net5.0\refint\06_strings.dll

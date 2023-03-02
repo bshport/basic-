@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.exe
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.deps.json
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.runtimeconfig.json
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.dll
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\ref\03_enums.dll
+C:\Users\Bogdan\source\repos\03_enums\bin\Debug\net5.0\03_enums.pdb
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.dll
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\ref\03_enums.dll
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.pdb
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\03_enums\obj\Debug\net5.0\03_enums.csproj.AssemblyReference.cache

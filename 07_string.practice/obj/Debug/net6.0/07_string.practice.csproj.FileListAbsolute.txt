@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\07_string.practice\bin\Debug\net6.0\07_string.practice.exe
+C:\Users\Bogdan\source\repos\07_string.practice\bin\Debug\net6.0\07_string.practice.deps.json
+C:\Users\Bogdan\source\repos\07_string.practice\bin\Debug\net6.0\07_string.practice.runtimeconfig.json
+C:\Users\Bogdan\source\repos\07_string.practice\bin\Debug\net6.0\07_string.practice.dll
+C:\Users\Bogdan\source\repos\07_string.practice\bin\Debug\net6.0\07_string.practice.pdb
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.dll
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\refint\07_string.practice.dll
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.pdb
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\07_string.practice.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\07_string.practice\obj\Debug\net6.0\ref\07_string.practice.dll

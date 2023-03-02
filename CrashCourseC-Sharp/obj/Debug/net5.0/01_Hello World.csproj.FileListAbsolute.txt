@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.exe
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.deps.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.runtimeconfig.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\ref\01_Hello World.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\bin\Debug\net5.0\01_Hello World.pdb
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\ref\01_Hello World.dll
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.pdb
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\CrashCourseC-Sharp\obj\Debug\net5.0\01_Hello World.csproj.AssemblyReference.cache
